@@ -1,1 +1,1 @@
-# osticket-post-installation
+# Post-install-config

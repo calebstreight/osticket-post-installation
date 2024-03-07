@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Steps</h2>
 
-- First login with the admin account you created. Next Admin panel > Agents > Roles > Add. Name this role 'Supreme Admin' and enable all permissions on all three tabs, tickets, tasks, knowledgebase. (Shown below)
+- First login with the admin account you created. Next Admin panel > Agents > Roles > Add New Role. Name this role 'Supreme Admin' and enable all permissions on all three tabs, tickets, tasks, knowledgebase. (Shown below)
 
  ![image](https://github.com/calebstreight/post-install-config/assets/162412951/30932eed-b0b9-49bc-bf46-e27e9b788ea0)
  

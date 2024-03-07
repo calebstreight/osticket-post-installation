@@ -54,7 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/calebstreight/post-install-config/assets/162412951/62b61764-0335-4e84-abad-cdc5f7a21602)
 
 
-- Lastly we will create an SLA system to help organize tickets into correct severity. Admin panel > Manage > SLA > Add New SLA. We will create 3 SLA plans. SEV-A (1 hour grace period and 24/7 schedule) Next SEV-B (4 hour grace period and 24/7 schedule) lastly SEV-C (8 hour grace period and buisness hours schedule) When finished you will have 4 SLA plans. (including 'default SLA' (Shown below)
+- Lastly we will create an SLA system to help organize tickets into correct severity. Admin panel > Manage > SLA > Add New SLA. We will create 3 SLA plans. SEV-A (1 hour grace period and 24/7 schedule) Next SEV-B (4 hour grace period and 24/7 schedule) lastly SEV-C (8 hour grace period and buisness hours schedule) When finished you will have 4 SLA plans. (including 'default SLA') (Shown below)
 
 ![image](https://github.com/calebstreight/post-install-config/assets/162412951/2b40d59d-0324-4a14-95fb-f095b317d071)
 ![image](https://github.com/calebstreight/post-install-config/assets/162412951/771282f2-010f-4026-884f-a2c3ae8f2ee7)

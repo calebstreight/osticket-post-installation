@@ -51,7 +51,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Next we're gonna create some users (customers). Agent panel > Users > Add New. You can name them whatever you'd like. There will be three users when finished (including osTicket support). (Shown below)
 
 ![image](https://github.com/calebstreight/post-install-config/assets/162412951/3ef26ecf-52c0-42ce-87d9-dc527a369889)
-![image](https://github.com/calebstreight/post-install-config/assets/162412951/866736d5-2e11-43a1-baf9-98721be5d230)
+![image](https://github.com/calebstreight/post-install-config/assets/162412951/62b61764-0335-4e84-abad-cdc5f7a21602)
 
 
 - Next we will create an SLA system to help organize tickets into correct severity. Admin panel > Manage > SLA > Add New SLA. We will create 3 SLA plans. SEV-A (1 hour grace period and 24/7 schedule) Next SEV-B (4 hour grace period and 24/7 schedule) lastly SEV-C (8 hour grace period buisness hours schedule) When finished you will have 4 SLA plans. (including 'default SLA' (Shown below)

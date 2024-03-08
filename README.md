@@ -20,7 +20,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - First login with the admin account you created. Next Admin panel > Agents > Roles > Add New Role. Name this role 'Supreme Admin' and enable all permissions on all three tabs, tickets, tasks, knowledgebase. Then click create. (Shown below)
 
  ![image](https://github.com/calebstreight/post-install-config/assets/162412951/30932eed-b0b9-49bc-bf46-e27e9b788ea0)
- ![image](https://github.com/calebstreight/post-install-config/assets/162412951/18d5cf4a-49bc-45d2-951c-1207566697a1)
 
 
 - Next head over to add a new department. Admin panel > Agents > Departments > Add New departments. Name this department 'System Adminisrators'. Then click create. (Shown below)
